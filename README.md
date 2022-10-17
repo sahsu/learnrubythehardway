@@ -6,3 +6,5 @@ Me and https://learnrubythehardway.org/.
 ![ex2.rb](./image/ex2.jpg 'ex2.rb result')
 ## ex3
 ![ex3.rb](./image/ex3.jpg 'ex3.rb result')
+## ex3-float
+![ex3-float.rb](./image/ex3-float.jpg 'ex3-float.rb result')
