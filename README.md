@@ -1,6 +1,6 @@
 # Me and https://learnrubythehardway.org/.
 
-## Currently Status 34.0%
+## Currently Status 34.0%, in 2022-10-23 01:38:07 +0800
 
 ## ex1
 ![ex1.rb](./image/ex1.jpg 'ex1.rb result')
@@ -38,7 +38,6 @@
 ![ex17.rb](./image/ex17.jpg 'ex17.rb result')
 ## ex18
 ![ex18.rb](./image/ex18.jpg 'ex18.rb result')
-
 
 
 
