@@ -14,7 +14,7 @@ template = ERB.new <<~EOF
   <% puts "" %>
   <% puts "## Currently Status " +  totalp.to_s + "%, in " + date.to_s %>
   <% puts "" %>
-  <%  for i in 1..b.count - 1 do %>
+  <%  for i in 1..last do %>
     <% puts "## ex" + i.to_s %>
    <% puts "![ex" + i.to_s + ".rb](./image/ex" + i.to_s + ".jpg \'ex" + i.to_s + ".rb result\')" %>
   <% end %>
