@@ -7,7 +7,6 @@ totalp = total.truncate(2) * 100
 
 template = ERB.new <<~EOF
 
-
   <% puts "# Me and https://learnrubythehardway.org/." %>
   <% puts "" %>
   <% puts "## Currently Status " +  totalp.to_s + "%" %>
