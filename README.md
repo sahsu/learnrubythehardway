@@ -1,6 +1,6 @@
 # Me and https://learnrubythehardway.org/.
 
-## Currently Status 40.0%, in 2022-10-25 23:33:04 +0800
+## Currently Status 40.0%, in 2022-10-25 23:35:10 +0800
 
 ## ex1
 ![ex1.rb](./image/ex1.jpg 'ex1.rb result')
