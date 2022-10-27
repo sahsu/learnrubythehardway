@@ -1,0 +1,3 @@
+[submodule "pre-commit"]
+	path = pre-commit
+	url = https://github.com/sahsu/pre-commit.git
