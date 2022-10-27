@@ -12,7 +12,9 @@ template = ERB.new <<~EOF
 
   <% puts "# Me and https://learnrubythehardway.org/." %>
   <% puts "" %>
-  <% puts "## Currently Status " +  totalp.to_s + "%, in " + date.to_s %>
+  <% puts "## Currently Status " %>
+  <% puts "### " + totalp.to_s + "%, in " + date.to_s %>
+  <% puts "### Total Hours \![Total Hours](https://wakatime.com/badge/user/41bbe59f-5a2f-415d-8e57-ccb8b716698d/project/0ed4f390-fdfe-4748-82d0-ddd912923f5d.svg)"%>
   <% puts "" %>
   <%  for i in 1..last do %>
     <% puts "## ex" + i.to_s %>
