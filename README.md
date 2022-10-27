@@ -1,7 +1,7 @@
 # Me and https://learnrubythehardway.org/.
 
 ## Currently Status 
-### 46.0%, in 2022-10-27 09:30:11 +0800
+### 46.0%, in 2022-10-27 10:55:57 +0800
 ### Total Hours ![Total Hours](https://wakatime.com/badge/user/41bbe59f-5a2f-415d-8e57-ccb8b716698d/project/0ed4f390-fdfe-4748-82d0-ddd912923f5d.svg)
 
 ## ex1
